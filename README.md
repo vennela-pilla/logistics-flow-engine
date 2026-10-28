@@ -74,4 +74,5 @@ The system detects people from a video feed, tracks their movement across a defi
 ---
 
 **Author:** Pilla Vennela
+
 **License:** MIT
